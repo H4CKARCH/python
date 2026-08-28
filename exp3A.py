@@ -40,12 +40,12 @@ class Employee(Person):
 
 
 # Person class object
-person = Person("Karthik Shaurya", 26)
+person = Person("Creestu Achari", 20)
 
 person.displayData()
 
 
 # Employee class object
-emp = Employee("Karthik Shaurya", 26, "E317")
+emp = Employee("Creestu Achari", 20, "25KP1A0479")
 
 emp.displayData()

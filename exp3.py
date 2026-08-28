@@ -17,7 +17,7 @@ class OverloadDemo:
 od = OverloadDemo()
 
 # Calling sum with two parameters
-od.sum(7, 8)
+od.sum(8, 9)
 
 # Calling sum with three parameters
-od.sum(7, 8, 9)
+od.sum(8, 9, 10)

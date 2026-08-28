@@ -75,21 +75,21 @@ class Pentagon(Polygon):
 
 
 # Object of Triangle
-t1 = Triangle([1, 2, 2])
+t1 = Triangle([2, 1, 3])
 print("Triangle:")
 print("Perimeter =", t1.perimeter())
 print("Area =", t1.area())
 
 
 # Object of Quadrilateral
-q1 = Quadrilateral([1, 1, 1, 1])
+q1 = Quadrilateral([2, 2, 2, 2])
 print("\nQuadrilateral:")
 print("Perimeter =", q1.perimeter())
 print("Area =", q1.area())
 
 
 # Object of Pentagon
-p1 = Pentagon([1, 1, 1, 1, 1])
+p1 = Pentagon([3, 3, 3, 3, 3])
 print("\nPentagon:")
 print("Perimeter =", p1.perimeter())
 print("Area =", p1.area())

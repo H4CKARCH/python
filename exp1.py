@@ -36,7 +36,7 @@ class flower:
 
 
 # This would create first object of Flower
-f1 = flower("Sunflower", 2, 1000)
+f1 = flower("jasmin", 5, 100)
 
 print("Flower Details:")
 
@@ -50,9 +50,9 @@ print("\n")
 
 
 # This would create second object of Flower
-f2 = flower("Rose", 5, 2000)
+f2 = flower("lotus", 3, 10)
 
-f2.setPrice(3333)
+f2.setPrice(20)
 
 f2.setPetals(6)
 

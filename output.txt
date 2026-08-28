@@ -1,0 +1,43 @@
+EXPERIMENT1
+
+Flower Details:
+Name: Sunflower
+Number of petals: 2
+Price: 1000
+
+
+Flower Details:
+Name: Rose
+Number of petals: 6
+Price: 3333
+
+EXPERIMENT2
+
+Triangle:
+Perimeter = 5
+Area = 0.9682458365518543
+
+Quadrilateral:
+Perimeter = 4
+Area = 1.0
+
+Pentagon:
+Perimeter = 5
+Area = 1.720477400588967
+
+EXPERIMENT3
+
+Sum =  15
+Sum =  24
+
+EXPERIMENT3A
+
+In parent class displayData method
+Name: Karthik Shaurya
+Age: 26
+
+
+In child class displayData method
+Name: Karthik Shaurya
+Age: 26
+Employee ID: E317

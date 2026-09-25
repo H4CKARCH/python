@@ -4,4 +4,5 @@ Change values for diffarent outputs
 
 Use this link for python online compiler 
 
-https://www.programiz.com/online-compiler/1kBe8XbfJALNJ
+
+https://www.programiz.com/online-compiler/6LqXQ9VJ3SGj5

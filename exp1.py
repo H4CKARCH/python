@@ -65,15 +65,3 @@ print("Number of petals:", f2.getPetals())
 print("Price:", f2.getPrice())
 
 
-#OUTPUT
-
-Flower Details:
-Name: jasmin
-Number of petals: 6
-Price: 200
-
-
-Flower Details:
-Name: lotus
-Number of petals: 5
-Price: 30

@@ -64,4 +64,3 @@ print("Number of petals:", f2.getPetals())
 
 print("Price:", f2.getPrice())
 
-
